@@ -2,9 +2,12 @@
 
 projeto para o curso da alura/google Imersao em IA
 
-É o tradicional jogo da forca mas com a palavra sugerida pela IA do gemini.
-Você tem 10 chances até acertar a palavra.
-Digite fim para finalizar a qualquer momento.
+
+É o tradicional jogo da forca mas com a palavra sugerida pela IA do gemini
+
+Você tem 10 chances até acertar a palavra
+
+Digite fim para finalizar a qualquer momento
 
 Obs: tive problemas com a largura do input que ocupava toda a tela, percebi que começou a ocorrer após a inclusão da linha:
 result = model.generate_content(prompt)
